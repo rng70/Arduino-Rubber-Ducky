@@ -1,8 +1,6 @@
-# arduino-rubber-ducky
+# Arduino Rubber Ducky
 
-***This repository contains rubber ducky payloads for Arduino-Uno. 
-
-
+**This repository contains rubber ducky payloads for Arduino-Uno. **
 
 ## Files
 
@@ -16,4 +14,6 @@
 
     ​    contains an arduino payload to hack a windows machine and create a reverse connection in meterpreter.
 
-3.  
+    and many more.
+
+***[ N.B: use these files carefully and rng70 does not take any responsibility for your actions if you gonna use it ]***
